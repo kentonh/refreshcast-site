@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pricing
+title: Elements
 nav-menu: true
 ---
 
