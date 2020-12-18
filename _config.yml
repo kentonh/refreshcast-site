@@ -3,7 +3,7 @@ title: Refreshcast
 subtitle: 
 email: youremailaddress@gmail.com
 description: Use every episode of your podcast to grow your audience, increase your revenue, and deliver your message. With Refreshcast, dynamically inserted advertisements are just the beginning.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 216 N. Mosley 140
