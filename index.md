@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Dynamicly insert ads for your podcast'
+landing-title: 'Dynamicly inserted ads for your podcast'
 description: null
 image: null
 author: null
